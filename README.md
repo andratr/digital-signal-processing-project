@@ -1,5 +1,5 @@
-Music Player
-~DSP project~
+Music Player - 
+DSP project
 
 Our project scope is to create a music player capable of playing, loading, stopping, and
 pausing music from WAV and MP3 files, and it can apply a Finite Impulse Response filter
