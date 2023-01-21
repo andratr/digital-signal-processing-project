@@ -25,6 +25,22 @@ Each button is responsible for keeping in order all possible states of the appli
 one file can be loaded at a time, and during its playtime it can be paused or stopped.
 Using the application, we can observe how the same melody sounds with a filter modifier
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/64592227/213886818-c3e75f3f-8b9b-4da0-9b04-40af16c76491.png)
+
+## Installation
+To install the libraries:
+```
+pip install pygame --pre
+pip install sounddevice   
+pip install matplotlib 
+pip install scipy 
+pip install numpy  
+```
+To run the player:
+```
+python "music player with GUI.py"
+```
 ## Team members
 - Alexandru Hang
 - Cezar Biculescu
